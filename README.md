@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Niraj</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 <br/> 
 <h2> Github Stats </h2> 
@@ -26,8 +25,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-
-- 📫 How to reach me **nirajkumarpatel21@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npxpatel&label=Profile%20views&color=0e75b6&style=flat" alt="npxpatel" /> </p>
 
 
