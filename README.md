@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npxpatel&" alt="" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=npxpatel" alt="" />
 </p>
 
 <p align="center">
